@@ -1,0 +1,10 @@
+* cl-cont
+
+A library that implements continuations by transforming Common Lisp
+code to continuation passing style.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-cont/cl-cont.git |
+| commit  | fc1fa7e                                                |
+| systems | cl-cont                                                |
+|---------+--------------------------------------------------------|
